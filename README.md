@@ -8,6 +8,15 @@ The calculator estimates 10-year survival probability in patients with multiple 
 
 ---
 
+## Author
+
+**Akshay Langhani**  
+Research Assistant, Iowa State University
+
+This project was developed during my research assistant position at Iowa State University.
+
+---
+
 ## Files Included
 
 1. **charlson_index.py** - Core calculator class with scoring logic
