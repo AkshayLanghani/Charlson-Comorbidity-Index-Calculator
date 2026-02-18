@@ -11,9 +11,9 @@ The calculator estimates 10-year survival probability in patients with multiple 
 ## Author
 
 **Akshay Langhani**  
-Research Assistant, Iowa State University
+Research Assistant, Illinois State University
 
-This project was developed during my research assistant position at Iowa State University.
+This project was developed during my research assistant position at Illinois State University.
 
 ---
 
@@ -301,3 +301,4 @@ For questions, corrections, or suggestions:
 ## License
 
 This implementation is provided as an educational tool. The original Charlson Comorbidity Index is in the public domain and can be freely used in research and clinical practice.
+
